@@ -53,20 +53,20 @@ Usuario: Persona que usa el sistema
 
 #### No funcionales:
 
-| RNF001   |      Tiempo de respuesta       |  
+| RNF01   |      Tiempo de respuesta       |  
 |----------|:-------------:|
-| Descripción | El sistema deberá generar el FlashCard en # segundo o menos. |
+| Descripción | El programa no debe tardar más de 15 segundos en responder, lo ideal es que en procesos ligeros no se demore ni 3 segundos, pero en caso de procesos mas pesados lo esperado es que procese toda la información en un promedio de 5-15 segundos. |
 
 ***
 
-| RNF002   |      Contador de tiempo       |  
+| RNF02   |      Diseño correcto de las respuestas       |  
 |----------|:-------------:|
-| Descripción | El sistema deberá contabilizar el tiempo que el usuario tarda en responder correctamente la flash card. |
+| Descripción | Las respuestas deben estar correctamente organizadas y teniendo en cuenta su correcta ortografía, además de presentar las respuestas solicitadas en el orden solicitado. |
 
 ***
 
-| RNF003   |      Contador de errores       |  
+| RNF03   |     Registro de problemas       |  
 |----------|:-------------:|
-| Descripción | El sistema deberá contabilizar la cantidad de errores que el usuario cometa al momento de responder todo el mazo. |
+| Descripción | El (Errores comunes pueden ser falta de información)sistema debe de registrar los errores que se produzcan, para así sean atendidos en futuras actualizaciones.(Errores comunes pueden ser falta de información) |
 
 ***
