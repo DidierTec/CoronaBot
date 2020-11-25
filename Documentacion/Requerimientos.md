@@ -14,7 +14,59 @@ Usuario: Persona que usa el sistema
 
 | RF01   |       Interacción con el usuario      |  
 |----------|:-------------:|
-| Prioridad:| Alta |
+| Prioridad:| Media |
 | Descripción |Cuando el usuario escriba una frase, palabra u oración cualquiera, el Bot primero se presentará como una persona normalmente lo haría, saludara al usuario y tomara decisiones con respecto a como responderá, si ofrece al usuario una respuesta en caso de que comience preguntando o si le ofrece seguir una conversación dando pie a que el usuario se anime a preguntar. |
+
+***
+
+| RF002   |      Reconocimiento de las preguntas       |  
+|----------|:-------------:|
+| Prioridad:| Alta |
+| Descripción |Cuando una pregunta es formulada por el usuario, el sistema reconoce las palabras clave para sabes qué información se está buscando.|
+***
+
+| RF03   |      Buscar la información       |  
+|----------|:-------------:|
+| Prioridad:| Alta |
+| Descripción |Una vez se defina que esta buscando el usuario, el sistema buscara la información correspondiente en la base de datos. |
+
+***
+
+| RF04   |       Presentar información        |  
+|----------|:-------------:|
+| Prioridad:| Alta |
+| Descripción | Una ves que se tenga la información, se organizara en forma de platica, de forma agradable de leer para el usuario, presentándole todo lo que solicito y dando referencias de donde puede encontrar información aún más detallada.|
+
+***
+
+| RF05   |      Historial       |  
+|----------|:-------------:|
+| Prioridad:| Media |
+| Descripción |El sistema mantendrá en la nube todo el proceso de la plática, para que el usuario pueda ver la información en el momento que la requiera sin tener que volver a iniciar una nueva petición.|
+
+***
+
+| RF06   |      Sugerencias       |  
+|----------|:-------------:|
+| Prioridad:| Baja |
+| Descripción |Mientras se desarrolla la platica el sistema ofrecerá al usuario sugerencias en forma de preguntas, para mostrar las preguntas mas frecuentes o informar al usuario de información extra que tal vez le podría interesar.|
+
+#### No funcionales:
+
+| RNF001   |      Tiempo de respuesta       |  
+|----------|:-------------:|
+| Descripción | El sistema deberá generar el FlashCard en # segundo o menos. |
+
+***
+
+| RNF002   |      Contador de tiempo       |  
+|----------|:-------------:|
+| Descripción | El sistema deberá contabilizar el tiempo que el usuario tarda en responder correctamente la flash card. |
+
+***
+
+| RNF003   |      Contador de errores       |  
+|----------|:-------------:|
+| Descripción | El sistema deberá contabilizar la cantidad de errores que el usuario cometa al momento de responder todo el mazo. |
 
 ***
