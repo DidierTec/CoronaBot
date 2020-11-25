@@ -4,7 +4,7 @@
 - Jose Aviles [@DarozZero](https://github.com/DarozZero "@PDarozZero")
 - Martin Cuevas
 - Jesus Be [@JesusBeHau](https://github.com/JesusBeHau "@JesusBeHaua")
-- Didier Tec 
+- Didier Tec [@DidierTec](https://github.com/DidierTec?tab=repositories "@DidierTec")
 
 
 ## Descripción 
