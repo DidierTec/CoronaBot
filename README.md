@@ -2,7 +2,7 @@
 ### Equipo 3:
 - Diego Burgos [DiegoBurgos616](https://github.com/DiegoBurgos616 "@DiegoBurgos616")
 - Jose Aviles [@DarozZero](https://github.com/DarozZero "@PDarozZero")
-- Martin Cuevas
+- Martin Cuevas[@martincuevass]( https://github.com/martincuevass "@martincuevass")
 - Jesus Be [@JesusBeHau](https://github.com/JesusBeHau "@JesusBeHaua")
 - Didier Tec [@DidierTec](https://github.com/DidierTec?tab=repositories "@DidierTec")
 
