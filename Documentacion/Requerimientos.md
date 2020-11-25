@@ -1,0 +1,72 @@
+## Requerimientos 
+
+### Requerimentos de usuario:
+
+Usuario: Persona que usa el sistema
+
+* El usuario tendrá la oportunidad de iniciar una conversación con cualquier palabra u oración que el prefiera o incluso haciendo una pregunta directamente.
+* El usuario tendrá la oportunidad de hacer preguntas relacionadas al coronavirus a un bot, en busca de información, pero manteniendo una conversación cordial como si de una persona se tratara.
+* Es usuario puede desplazarse en su historial de platica, para que pueda ver las preguntas que ha realizado y toda la información que ha obtenido cuando la necesite.
+
+### Requerimentos del sistema: 
+
+#### Funcionales: 
+
+| RF01   |       Interacción con el usuario      |  
+|----------|:-------------:|
+| Prioridad:| Media |
+| Descripción |Cuando el usuario escriba una frase, palabra u oración cualquiera, el Bot primero se presentará como una persona normalmente lo haría, saludara al usuario y tomara decisiones con respecto a como responderá, si ofrece al usuario una respuesta en caso de que comience preguntando o si le ofrece seguir una conversación dando pie a que el usuario se anime a preguntar. |
+
+***
+
+| RF002   |      Reconocimiento de las preguntas       |  
+|----------|:-------------:|
+| Prioridad:| Alta |
+| Descripción |Cuando una pregunta es formulada por el usuario, el sistema reconoce las palabras clave para sabes qué información se está buscando.|
+***
+
+| RF03   |      Buscar la información       |  
+|----------|:-------------:|
+| Prioridad:| Alta |
+| Descripción |Una vez se defina que esta buscando el usuario, el sistema buscara la información correspondiente en la base de datos. |
+
+***
+
+| RF04   |       Presentar información        |  
+|----------|:-------------:|
+| Prioridad:| Alta |
+| Descripción | Una ves que se tenga la información, se organizara en forma de platica, de forma agradable de leer para el usuario, presentándole todo lo que solicito y dando referencias de donde puede encontrar información aún más detallada.|
+
+***
+
+| RF05   |      Historial       |  
+|----------|:-------------:|
+| Prioridad:| Media |
+| Descripción |El sistema mantendrá en la nube todo el proceso de la plática, para que el usuario pueda ver la información en el momento que la requiera sin tener que volver a iniciar una nueva petición.|
+
+***
+
+| RF06   |      Sugerencias       |  
+|----------|:-------------:|
+| Prioridad:| Baja |
+| Descripción |Mientras se desarrolla la platica el sistema ofrecerá al usuario sugerencias en forma de preguntas, para mostrar las preguntas mas frecuentes o informar al usuario de información extra que tal vez le podría interesar.|
+
+#### No funcionales:
+
+| RNF01   |      Tiempo de respuesta       |  
+|----------|:-------------:|
+| Descripción | El programa no debe tardar más de 15 segundos en responder, lo ideal es que en procesos ligeros no se demore ni 3 segundos, pero en caso de procesos mas pesados lo esperado es que procese toda la información en un promedio de 5-15 segundos. |
+
+***
+
+| RNF02   |      Diseño correcto de las respuestas       |  
+|----------|:-------------:|
+| Descripción | Las respuestas deben estar correctamente organizadas y teniendo en cuenta su correcta ortografía, además de presentar las respuestas solicitadas en el orden solicitado. |
+
+***
+
+| RNF03   |     Registro de problemas       |  
+|----------|:-------------:|
+| Descripción | El sistema debe de registrar los errores que se produzcan, para así sean atendidos en futuras actualizaciones.(Errores comunes pueden ser falta de información) |
+
+***
