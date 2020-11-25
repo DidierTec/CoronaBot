@@ -34,7 +34,7 @@ para la elaboración del CoronaBot.</p>
 </li></ul>
 <p style="margin-bottom: 0.11in"><font size="4"><b>Indice:</b></font></p>
 <ol>
-	<li><p style="margin-bottom: 0.11in"><a href="http://www.manualweb.net/html/listas-html/">Objetivos</a></p>
+	<li><p style="margin-bottom: 0.11in"><a href="https://www.youtube.com/watch?v=xGJmPFBqOXo">Objetivos</a></p>
 	</li><li><p style="margin-bottom: 0.11in">Requerimientos 
 	</p>
 	</li><li><p style="margin-bottom: 0.11in">Procesos y roles</p>
