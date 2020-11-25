@@ -16,12 +16,12 @@ Los usarios son estudiantes de 18 a 23 años en su mayoria
 ## Indice
 
 
-1.[Objetivos](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/Objetivos "Objetivos")
+1.[Objetivos](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/2.%20Objetivos.md "Objetivos")
 
-2.[Datos de estudio e investigacion](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/Datos%20de%20estudio%20e%20investigaci%C3%B3n "Datos de estudio e investigacion")
+2.[Datos de estudio e investigacion](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/5.%20Datos%20de%20estudio%20e%20investigaci%C3%B3n.md "Datos de estudio e investigacion")
 
-3.[Requerimientos](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/Requerimientos "Requerimientos")
+3.[Requerimientos](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/4.%20Requerimientos.md "Requerimientos")
 
-4.[Procesos y Roles](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/Procesos%20y%20roles "Procesos y Roles")
+4.[Procesos y Roles](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/3.%20Procesos%20y%20roles.md "Procesos y Roles")
 
-5.[Bitacora](https://github.com/DarozZero/CoronaBot/tree/main/Documentacion "Bitacora")
+5.[Bitacora](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/1.%20Bitacora.md "Bitacora")
