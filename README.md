@@ -22,4 +22,6 @@ Los usarios son estudiantes de 18 a 23 años en su mayoria
 
 3.[Requerimientos](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/Requerimientos "Requerimientos")
 
-3.[Procesos y Roles](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/Procesos%20y%20roles "Procesos y Roles")
+4.[Procesos y Roles](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/Procesos%20y%20roles "Procesos y Roles")
+
+5.[Bitacora](https://github.com/DarozZero/CoronaBot/tree/main/Documentacion "Bitacora")
