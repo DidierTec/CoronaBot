@@ -1,6 +1,7 @@
-![bitmap](https://user-images.githubusercontent.com/73042522/100379644-d225ca00-2fda-11eb-9fe2-2d75f5e46c7f.png)
 
 # Proyecto CoronaBot
+![bitmap](https://user-images.githubusercontent.com/73042522/100379644-d225ca00-2fda-11eb-9fe2-2d75f5e46c7f.png)
+
 ### Equipo 3:
 - Diego Burgos [DiegoBurgos616](https://github.com/DiegoBurgos616 "@DiegoBurgos616")
 - Jose Aviles [@DarozZero](https://github.com/DarozZero "@PDarozZero")
