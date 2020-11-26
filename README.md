@@ -11,10 +11,10 @@
 
 
 ## Descripción 
-CoronaBot es un bot que funciona en Facebook Messenger que permite al usuario realizar preguntas acerca del virus y consiguiente a eso recibir una respuesta con información confiable
+CoronaBot es un bot que funciona en Facebook Messenger que permite al usuario realizar preguntas acerca del virus y consiguiente a eso recibir una respuesta con información confiable.
 
 ## Usuarios
-Los usarios son estudiantes de 18 a 23 años en su mayoria
+Los usuarios son estudiantes de 18 a 23 años en su mayoria.
 
 ## Indice
 
