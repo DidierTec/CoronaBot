@@ -1,0 +1,33 @@
+## Historias de Usuario
+
+**HU01**- Bot de respuestas amigable **Como:** Usuario **Quiero:** hablar con un Bot **Para:** obtener información sobre el coronavirus de las cosas que le pregunte.
+##### Condiciones
+- El sistema debe mostrar una interfaz para que el usuario escriba su pregunta.
+- El sistema debe analizar la pregunta y buscarlo en la base de datos.
+- El sistema, de forma amable responderá la pregunta con la información encontrada.
+
+-----------------
+
+**HU02**- Amable y profesional **Como:** Usuario **Quiero:** Que con quien hable sea amable **Para:** Sentirme más cómodo mientras busco más información.
+##### Condiciones
+- El Bot debe de tener patrones de respuesta que hagan sentir cómodos a los Usuarios.
+- El Bot debe ser educado y profesional.
+- El Bot debe tener buena ortografía.
+
+-----------------
+
+**HU03**- Historial **Como:** Usuario **Quiero:**  Ver mi historial  **Para:** Revisar la información recabada cuando la necesite sin tener que recomenzar la plática.
+##### Condiciones
+- El sistema reconoce que el usuario a ingresado antes
+- El sistema busca la platica anterior en la nube.
+- El sistema muestra en pantalla el historial de conversaciones.
+
+-----------------
+
+**HU04**- Sugerencias **Como:** Usuario **Quiero:**  Recibir recomendaciones  **Para:** Tener una idea de lo que puedo preguntar.
+##### Condiciones
+- El sistema debe de cargar una base de datos con sugerencias de la información que posee
+- El sistema debe mostrar sugerencias en pantalla cada que se inicie una conversación elegidas al azar.
+- El sistema debe mostrar una sugerencia en pantalla si se permanece inactivo por mucho tiempo elegidas al azar.
+
+-----------------
