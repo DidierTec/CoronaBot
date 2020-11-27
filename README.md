@@ -23,7 +23,7 @@ Los usuarios son estudiantes de 18 a 23 años en su mayoria.
 
 2.[Datos de estudio e investigacion](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/5.%20Datos%20de%20estudio%20e%20investigaci%C3%B3n.md "Datos de estudio e investigacion")
 
-3.[Requerimientos](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/4.%20Requerimientos.md "Requerimientos")
+3.[Historias de usuario](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/7.%20Historias%20de%20Usuario.md "Historias de usuario")
 
 4.[Procesos y Roles](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/3.%20Procesos%20y%20roles.md "Procesos y Roles")
 
