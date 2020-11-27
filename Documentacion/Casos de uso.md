@@ -40,3 +40,6 @@
 **Salidas alternas:** 3.1 En caso de que sea un nuevo usuario, no habrá historial que mostrar.
 
 ------------
+
+## Diagrama de Casos de Uso
+![](https://github.com/DarozZero/CoronaBot/blob/Jose/Documentacion/Diagrama%20de%20casos%20de%20uso.jpeg?raw=true)
