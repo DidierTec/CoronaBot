@@ -40,3 +40,6 @@
 **Salidas alternas:** 3.1 En caso de que sea un nuevo usuario, no habrá historial que mostrar.
 
 ------------
+
+## Diagrama de Casos de Uso
+![Diagrama](https://1drv.ms/u/s!ApOxl67wNUiCwhQ3kTvRKHybKkAp?e=7Yp0S5)
