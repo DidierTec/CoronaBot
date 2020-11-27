@@ -42,4 +42,4 @@
 ------------
 
 ## Diagrama de Casos de Uso
-![Diagrama](https://1drv.ms/u/s!ApOxl67wNUiCwhQ3kTvRKHybKkAp?e=7Yp0S5)
+![](https://github.com/DarozZero/CoronaBot/blob/Jose/Documentacion/Diagrama%20de%20casos%20de%20uso.jpeg?raw=true)
