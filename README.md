@@ -25,6 +25,8 @@ Los usuarios son estudiantes de 18 a 23 años en su mayoria.
 
 3.[Historias de usuario](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/7.%20Historias%20de%20Usuario.md "Historias de usuario")
 
+5.[Casos de uso](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/6.%20Casos%20de%20uso.md "Casos de uso")
+
 4.[Procesos y Roles](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/3.%20Procesos%20y%20roles.md "Procesos y Roles")
 
 5.[Bitacora](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/1.%20Bitacora.md "Bitacora")
