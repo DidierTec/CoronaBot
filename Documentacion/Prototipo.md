@@ -7,4 +7,4 @@ Para armar este prototipo utilizamos un programa llamado figma. Figma es un prog
 https://www.figma.com/file/Hn2DWr115mN9t0pW2GDTY2/Prototipo-de-CoronaBot
 
 ***
-| [Inicio](https://github.com/DarozZero/CoronaBot) | [Atras](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/Presentaci%C3%B3n.md) |
+| [Inicio](https://github.com/DarozZero/CoronaBot "Inicio") | [Atras](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/1.%20Bitacora.md "Atras") |
