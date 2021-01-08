@@ -4,7 +4,7 @@ Este prototipo del bot realizado consta de varias imágenes que muestra el resul
 Para armar este prototipo utilizamos un programa llamado figma. Figma es un programa que ofrece todas las herramientas necesarias para diseñar un proyecto. Sobresale en que puede diseñar interfaces de usuario tanto para web como para móvil. También permite crear prototipos, generar código entre otras cosas. Optamos por este programa ya que para nuestras necesidades es lo ideal para el diseño de nuestro proyecto por sus componentes y la visualización del resultado final que este programa nos da.
 
 # Link del prototipo: 
-https://www.figma.com/file/Hn2DWr115mN9t0pW2GDTY2/Prototipo-de-CoronaBot
+https://www.figma.com/proto/Hn2DWr115mN9t0pW2GDTY2/Prototipo-de-CoronaBot?node-id=62%3A2&scaling=scale-down
 
 ***
 | [Inicio](https://github.com/DarozZero/CoronaBot "Inicio") | [Atras](https://github.com/DarozZero/CoronaBot/blob/main/Documentacion/1.%20Bitacora.md "Atras") |
